@@ -10,7 +10,7 @@ React Icons for a visually engaging interface
 Efficient state management for smooth conversations
 
 ## OUTPUT 
-<img src="chatbot1st.png"> </img>
-<img src="chatbot2nd.png"> </img>
-<img src="chatbot3rd.png"> </img>
+<img src="Preview/Screenshot (98).png"> </img>
+<img src="Preview/Screenshot (100).png"> </img>
+<img src="Preview/Screenshot (101).png"> </img>
 
